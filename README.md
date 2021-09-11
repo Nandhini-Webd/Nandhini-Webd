@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Aloha!! This is Nandhini. Nice to meet you. Hope you are doing good. I am a Web-Development enthusiast. I am thankful for the chance to share my work with you.If you find any bugs please do let me know.
 <!--
 **Nandhini-Webd/Nandhini-Webd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
